@@ -85,8 +85,5 @@ Visit `http://localhost:3000` in your browser.
 📧 info@sati.ac.in  
 🌐 [www.satiengg.in](http://www.satiengg.in)
 
----
 
-## 📄 License
 
-This project is licensed under the MIT License.
